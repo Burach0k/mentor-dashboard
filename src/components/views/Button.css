@@ -1,0 +1,17 @@
+button {
+    color: #fff;
+    text-decoration: none;
+    user-select: none;
+    padding: 10px 5px;
+    outline: none;
+}
+button.begin {
+    background: rgb(232, 95, 76);
+}
+button.wait {
+    background: rgb(158, 190, 14);
+}
+
+button.ready {
+    background: rgb(4, 153, 48);
+}
